@@ -43,7 +43,12 @@ const Solutions: React.FC = () => {
         </div>
 
         <div className="text-center mt-12">
-          <a href="#consultation" className="inline-block bg-transparent border-2 border-green-500 text-green-500 hover:bg-green-500 hover:text-black font-bold text-lg py-3 px-8 rounded-full transition duration-300">
+          <a 
+            href="https://lin.ee/EwSR70X" 
+            target="_blank"
+            rel="noreferrer"
+            className="inline-block bg-transparent border-2 border-green-500 text-green-500 hover:bg-green-500 hover:text-black font-bold text-lg py-3 px-8 rounded-full transition duration-300"
+          >
             了解課程細節
           </a>
         </div>

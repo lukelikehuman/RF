@@ -2,7 +2,7 @@ import React from 'react';
 import { MessageCircle } from 'lucide-react';
 
 const StickyCTA: React.FC = () => {
-  const lineUrl = "https://line.me/ti/p/YOUR_LINE_ID";
+  const lineUrl = "https://lin.ee/EwSR70X";
 
   return (
     <>
