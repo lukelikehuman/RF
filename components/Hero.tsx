@@ -22,9 +22,8 @@ const Hero: React.FC = () => {
       <div className="relative z-10 container mx-auto px-6 text-center text-white max-w-4xl flex flex-col items-center">
         {/* H1 Headline */}
         <h1 className="text-4xl md:text-6xl font-black mb-6 leading-tight tracking-wide shadow-sm drop-shadow-lg">
-          高雄美術館特區<br />
-          <span className="text-green-500">專屬您的一對一</span><br />
-          私人健身教練
+          反作用力訓練空間<br />
+          <span className="text-green-500 text-2xl md:text-4xl block mt-4">高雄美術館特區｜一對一私人健身教練</span>
         </h1>
         
         {/* Sub-headline */}

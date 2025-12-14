@@ -52,7 +52,7 @@ const GoogleReviews: React.FC = () => {
           </div>
           
           <a 
-            href="https://maps.google.com/?q=高雄市鼓山區美術東五路61號" 
+            href="https://maps.google.com/?q=804高雄市鼓山區美術東五路61號" 
             target="_blank" 
             rel="noreferrer"
             className="inline-flex items-center px-6 py-3 border border-gray-300 rounded-full text-gray-700 bg-white hover:bg-gray-50 transition duration-300 shadow-sm font-medium"

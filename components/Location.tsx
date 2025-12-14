@@ -14,7 +14,7 @@ const Location: React.FC = () => {
           {/* Map Section */}
           <div className="w-full md:w-2/3 h-64 md:h-auto min-h-[300px] bg-gray-200 relative">
              <iframe 
-               src="https://maps.google.com/maps?q=高雄市鼓山區美術東五路61號&z=17&output=embed" 
+               src="https://maps.google.com/maps?q=804高雄市鼓山區美術東五路61號&z=17&output=embed" 
                width="100%" 
                height="100%" 
                style={{border:0}} 
@@ -34,7 +34,8 @@ const Location: React.FC = () => {
                 <span>教室地點</span>
               </div>
               <p className="text-gray-900 text-lg font-bold leading-relaxed mb-2">
-                高雄市鼓山區美術東五路 61 號 2 樓
+                反作用力訓練空間<br/>
+                <span className="text-base font-normal">804高雄市鼓山區美術東五路61號2樓</span>
               </p>
               <p className="text-gray-600 leading-relaxed">
                 鄰近高雄市立美術館，環境清幽單純，擁有絕佳的運動氛圍。

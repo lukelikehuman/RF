@@ -25,7 +25,7 @@ const Footer: React.FC = () => {
           </div>
         </div>
 
-        <p className="text-gray-500 text-sm">© {new Date().getFullYear()} 高雄美術館特區私人健身教練. All rights reserved.</p>
+        <p className="text-gray-500 text-sm">© {new Date().getFullYear()} 反作用力訓練空間. All rights reserved.</p>
       </div>
     </section>
   );
